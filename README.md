@@ -1,5 +1,8 @@
 # chef-tutorial
 * in this tutorial i used an amazon instance ubtuntu image and type t2.medium
+* when you create your ec2 instances where you will install the chef workstation, server, node make sure to enable below security group
+![sg](https://user-images.githubusercontent.com/67081878/185626816-f8d23b72-4b40-4807-9603-8b81686eb41a.PNG)
+
 ## chef server
 * install chef server
 ```
