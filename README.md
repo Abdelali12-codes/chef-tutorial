@@ -137,9 +137,14 @@ knife cookbook upload sample
 
 * add run list to your node  either from the console or using the command 
 
+* click on the icon on the right side of the setting icon and click on the Edit Run List option
 ![chef1](https://user-images.githubusercontent.com/67081878/185625405-78423a3a-36df-48b0-aab2-48177e25e628.PNG)
+
+* this pop-up will appear 
 ![chef2](https://user-images.githubusercontent.com/67081878/185625408-3049fe27-d536-4593-8715-dadce1688e83.PNG)
+* drag and drop the recipe from the Available recipe section
 ![chef3](https://user-images.githubusercontent.com/67081878/185625411-a195795a-0cd4-4d8c-9b7b-21309c4f8a7b.PNG)
+* click on the save button
 ![chef4](https://user-images.githubusercontent.com/67081878/185625417-630e8276-1e91-4410-b999-816f6b36682c.PNG)
 
 * then go to your chef node server and run chef-client command 
