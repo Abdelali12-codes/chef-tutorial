@@ -1,5 +1,5 @@
 # chef-tutorial
-* in this tutorial i used ubuntu ec2 instance with t2.medium type
+* in this tutorial i used an amazon instance ubtuntu image and type t2.medium
 ## chef server
 * install chef server
 ```
